@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "181855696046",
+    "project_id": "famlynk-17bda",
+    "storage_bucket": "famlynk-17bda.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:181855696046:android:b05f5ec4c1dbb60f06e93f",
+        "android_client_info": {
+          "package_name": "com.example.famlynk"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxbebxMyXVplmfntmtFGSbPCjf2Jh5APY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
